@@ -1,2 +1,2 @@
 # minesweeper
-A single player Mineweeper game in the Java console.
+A single player Minesweeper game in the Java console.
